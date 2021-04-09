@@ -9,10 +9,6 @@ package Parcial1;
  *
  * @author Guillermolp
  */
-public class Main {
+public class Producto {
     
-    public static void main(String[] args) {
-        
-        System.out.println("Hola Mundillo ");
-    }
 }

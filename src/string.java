@@ -3,12 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Parcial1;
 
 /**
  *
  * @author Guillermolp
  */
-public class Celular {
+class string {
     
 }
